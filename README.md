@@ -1,2 +1,2 @@
 # dotfiles
-Misc config files for Linux-based environments; intended for personal use/backup, but usage is welcome.
+Misc config files for Linux-based systems; intended for personal use/backup, but reuse is welcome.
